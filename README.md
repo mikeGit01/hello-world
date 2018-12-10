@@ -1,4 +1,5 @@
 # hello-world
 Hello world git
 
-This what I wrote about me ":)"
+This is what I wrote about me ":)"
+Haha got you
